@@ -97,6 +97,7 @@ fieldset {
 .map__filters-container {
   width: 100%;
   background-color: #000000;
+  z-index: 1000;
 }
 
 .map__filters {
